@@ -1,0 +1,3 @@
+git add majid.txt
+git commit -m "majid.txt"
+git push origin main
